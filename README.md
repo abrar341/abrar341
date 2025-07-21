@@ -1,3 +1,6 @@
+![Cover](https://via.placeholder.com/1200x400.png?text=Muhammad+Abrar+%7C+Full+Stack+Developer)
+
+
 # 👋 Hi, I'm Muhammad Abrar
 
 🚀 Full Stack Developer | MERN & Next.js Specialist | 🇵🇰 Based in Lahore, Pakistan
