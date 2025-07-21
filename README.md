@@ -12,43 +12,38 @@ I'm a passionate and detail-oriented full stack developer with hands-on experien
 - 🎨 Frontend focused on modern UX, responsive layouts, and SSR/CSR via React.js and Next.js.
 - ⚙️ Good understanding of state management, REST APIs, authentication, and real-time apps using WebSocket.
 - 🤝 Team collaborator with excellent communication skills and a delivery-focused mindset.
-- 📈 Currently learning **Docker** and containerized development environments.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 👨‍💻 Programming Languages:
-- JavaScript, HTML, CSS
+### 👨‍💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 💻 Frontend:
-- React.js, Next.js, Tailwind CSS, Redux Toolkit, Responsive Design
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
 
-### 🔧 Backend & Database:
-- Node.js, Express.js  
-- MongoDB, PostgreSQL  
-- Mongoose (ODM), Prisma (ORM)  
-- WebSocket / Socket.IO
+### 🛠 Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)  
+![WebSocket](https://img.shields.io/badge/-WebSocket-FFCC00?style=for-the-badge&logo=websocket&logoColor=black)
 
-### 🛠️ Tools & Workflow:
-- Git, GitHub, Agile Development
-- REST APIs, Postman
-- Currently learning: Docker
+### 🗄️ Database & ORM/ODM  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma)
 
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-University of Baltistan, Skardu Baltistan  
-📅 2021 – 2024 | 🎯 CGPA: 3.56 / 4.0
-
----
-
-## 🌱 Currently Exploring
-
-- Docker for efficient app deployment
-- Testing tools and scalable architecture patterns
+### ⚙️ Tools & Workflow  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)  
+![Agile](https://img.shields.io/badge/-Agile-0052CC?style=for-the-badge&logo=jira)
 
 ---
 
